@@ -1,1 +1,920 @@
-[[1,14],[2,15],[3,12],[4,15],[5,16],[6,20],[7,19],[8,21],[9,20],[10,25]]
+[
+  {
+    "ts": 1693213745137,
+    "ID": "IC_Jlle_Training_11",
+    "MQ3": 407.0,
+    "Bosch_VoC": 28212.0
+  },
+  {
+    "ts": 1693213745293,
+    "ID": "IC_Jlle_Training_11",
+    "MQ3": 407.0,
+    "Bosch_VoC": 28212.0
+  },
+  {
+    "ts": 1693213941290,
+    "ID": "IC_Jlle_Training_11",
+    "MQ3": 409.0,
+    "Bosch_VoC": 28175.0
+  },
+  {
+    "ts": 1693223774635,
+    "ID": "IC_Jlle_Training_11",
+    "MQ3": 419.0,
+    "Bosch_VoC": 24786.0
+  },
+  {
+    "ts": 1693229218985,
+    "ID": "IC_Jlle_Training_11",
+    "MQ3": 474.0,
+    "Bosch_VoC": 21607.0
+  },
+  {
+    "ts": 1693235756619,
+    "ID": "IC_Jlle_Training_11",
+    "MQ3": 463.0,
+    "Bosch_VoC": 22638.0
+  },
+  {
+    "ts": 1693237357838,
+    "ID": "IC_Jlle_Training_11",
+    "MQ3": 428.0,
+    "Bosch_VoC": 23965.0
+  },
+  {
+    "ts": 1693237534201,
+    "ID": "IC_Jlle_Training_11",
+    "MQ3": 427.0,
+    "Bosch_VoC": 23911.0
+  },
+  {
+    "ts": 1693240360027,
+    "ID": "IC_Jlle_Training_11",
+    "MQ3": 435.0,
+    "Bosch_VoC": 22590.0
+  },
+  {
+    "ts": 1693258480324,
+    "ID": "IC_Jlle_Training_11",
+    "MQ3": 456.0,
+    "Bosch_VoC": 24502.0
+  },
+  {
+    "ts": 1693263231662,
+    "ID": "IC_Jlle_Training_11",
+    "MQ3": 416.0,
+    "Bosch_VoC": 28193.0
+  },
+  {
+    "ts": 1693264247319,
+    "ID": "IC_Jlle_Training_11",
+    "MQ3": 423.0,
+    "Bosch_VoC": 28231.0
+  },
+  {
+    "ts": 1693273051290,
+    "ID": "IC_Jlle_Training_11",
+    "MQ3": 415.0,
+    "Bosch_VoC": 27807.0
+  },
+  {
+    "ts": 1693274203105,
+    "ID": "IC_Jlle_Training_11",
+    "MQ3": 416.0,
+    "Bosch_VoC": 28212.0
+  },
+  {
+    "ts": 1693290688209,
+    "ID": "IC_Jlle_Training_11",
+    "MQ3": 438.0,
+    "Bosch_VoC": 25589.0
+  },
+  {
+    "ts": 1693291135864,
+    "ID": "IC_Jlle_Training_11",
+    "MQ3": 435.0,
+    "Bosch_VoC": 25853.0
+  },
+  {
+    "ts": 1693292776142,
+    "ID": "IC_Jlle_Training_11",
+    "MQ3": 422.0,
+    "Bosch_VoC": 27414.0
+  },
+  {
+    "ts": 1693303862426,
+    "ID": "IC_Jlle_Training_11",
+    "MQ3": 419.0,
+    "Bosch_VoC": 28082.0
+  },
+  {
+    "ts": 1693310065340,
+    "ID": "IC_Jlle_Training_11",
+    "MQ3": 485.0,
+    "Bosch_VoC": 22053.0
+  },
+  {
+    "ts": 1693315363451,
+    "ID": "IC_Jlle_Training_11",
+    "MQ3": 520.0,
+    "Bosch_VoC": 13272.0
+  },
+  {
+    "ts": 1693326189945,
+    "ID": "IC_Jlle_Training_11",
+    "MQ3": 427.0,
+    "Bosch_VoC": 22519.0
+  },
+  {
+    "ts": 1693332876296,
+    "ID": "IC_Jlle_Training_11",
+    "MQ3": 428.0,
+    "Bosch_VoC": 21872.0
+  },
+  {
+    "ts": 1693346777951,
+    "ID": "IC_Jlle_Training_11",
+    "MQ3": 382.0,
+    "Bosch_VoC": 9882.0
+  },
+  {
+    "ts": 1693352447398,
+    "ID": "IC_Jlle_Training_11",
+    "MQ3": 443.0,
+    "Bosch_VoC": 12329.0
+  },
+  {
+    "ts": 1693353698513,
+    "ID": "IC_Jlle_Training_11",
+    "MQ3": 431.0,
+    "Bosch_VoC": 13894.0
+  },
+  {
+    "ts": 1693360822345,
+    "ID": "IC_Jlle_Training_11",
+    "MQ3": 379.0,
+    "Bosch_VoC": 21895.0
+  },
+  {
+    "ts": 1693362740048,
+    "ID": "IC_Jlle_Training_11",
+    "MQ3": 428.0,
+    "Bosch_VoC": 20233.0
+  },
+  {
+    "ts": 1693368901814,
+    "ID": "IC_Jlle_Training_11",
+    "MQ3": 408.0,
+    "Bosch_VoC": 22519.0
+  },
+  {
+    "ts": 1693369493002,
+    "ID": "IC_Jlle_Training_11",
+    "MQ3": 419.0,
+    "Bosch_VoC": 21326.0
+  },
+  {
+    "ts": 1693370330588,
+    "ID": "IC_Jlle_Training_11",
+    "MQ3": 399.0,
+    "Bosch_VoC": 21454.0
+  },
+  {
+    "ts": 1693372426822,
+    "ID": "IC_Jlle_Training_11",
+    "MQ3": 419.0,
+    "Bosch_VoC": 21178.0
+  },
+  {
+    "ts": 1693375343439,
+    "ID": "IC_Jlle_Training_11",
+    "MQ3": 364.0,
+    "Bosch_VoC": 24474.0
+  },
+  {
+    "ts": 1693382674970,
+    "ID": "IC_Jlle_Training_11",
+    "MQ3": 380.0,
+    "Bosch_VoC": 22307.0
+  },
+  {
+    "ts": 1693383769348,
+    "ID": "IC_Jlle_Training_11",
+    "MQ3": 367.0,
+    "Bosch_VoC": 24237.0
+  },
+  {
+    "ts": 1693384847294,
+    "ID": "IC_Jlle_Training_11",
+    "MQ3": 365.0,
+    "Bosch_VoC": 25286.0
+  },
+  {
+    "ts": 1693386057276,
+    "ID": "IC_Jlle_Training_11",
+    "MQ3": 381.0,
+    "Bosch_VoC": 25241.0
+  },
+  {
+    "ts": 1693386951723,
+    "ID": "IC_Jlle_Training_11",
+    "MQ3": 413.0,
+    "Bosch_VoC": 24210.0
+  },
+  {
+    "Bosch_Temperature": "8.7126",
+    "ts": 1693391747014,
+    "Bosch_VoC": 21136.0,
+    "ID": "IC_Jlle_Training_11",
+    "Bosch_Humidity": 11.28832817,
+    "MQ3": 392.0
+  },
+  {
+    "Bosch_Temperature": "7.7770",
+    "ts": 1693396980331,
+    "Bosch_VoC": 20119.0,
+    "ID": "IC_Jlle_Training_11",
+    "Bosch_Humidity": 15.93354893,
+    "MQ3": 425.0
+  },
+  {
+    "Bosch_Temperature": "7.4456",
+    "ts": 1693404665878,
+    "Bosch_VoC": 21940.0,
+    "ID": "IC_Jlle_Training_11",
+    "Bosch_Humidity": 11.9038105,
+    "MQ3": 397.0
+  },
+  {
+    "Bosch_Temperature": "7.5899",
+    "ts": 1693405798238,
+    "Bosch_VoC": 20506.0,
+    "ID": "IC_Jlle_Training_11",
+    "Bosch_Humidity": 15.97357655,
+    "MQ3": 438.0
+  },
+  {
+    "Bosch_Temperature": "8.0412",
+    "ts": 1693407498139,
+    "Bosch_VoC": 20272.0,
+    "ID": "IC_Jlle_Training_11",
+    "Bosch_Humidity": 13.64406776,
+    "MQ3": 411.0
+  },
+  {
+    "Bosch_Temperature": "7.8063",
+    "ts": 1693426158343,
+    "Bosch_VoC": 21940.0,
+    "ID": "IC_Jlle_Training_11",
+    "Bosch_Humidity": 10.67355537,
+    "MQ3": 352.0
+  },
+  {
+    "Bosch_Temperature": "7.5292",
+    "ts": 1693429814629,
+    "Bosch_VoC": 21607.0,
+    "ID": "IC_Jlle_Training_11",
+    "Bosch_Humidity": 17.59081459,
+    "MQ3": 416.0
+  },
+  {
+    "Bosch_Temperature": "7.0861",
+    "ts": 1693439189576,
+    "Bosch_VoC": 25331.0,
+    "ID": "IC_Jlle_Training_11",
+    "Bosch_Humidity": 13.95559788,
+    "MQ3": 395.0
+  },
+  {
+    "Bosch_Temperature": "8.8582",
+    "ts": 1693444263548,
+    "Bosch_VoC": 22638.0,
+    "ID": "IC_Jlle_Training_11",
+    "Bosch_Humidity": 13.06627178,
+    "MQ3": 392.0
+  },
+  {
+    "Bosch_Temperature": "8.8638",
+    "ts": 1693444584315,
+    "Bosch_VoC": 22906.0,
+    "ID": "IC_Jlle_Training_11",
+    "Bosch_Humidity": 12.26346874,
+    "MQ3": 381.0
+  },
+  {
+    "Bosch_Temperature": "8.7170",
+    "ts": 1693445212720,
+    "Bosch_VoC": 24530.0,
+    "ID": "IC_Jlle_Training_11",
+    "Bosch_Humidity": 10.95968056,
+    "MQ3": 367.0
+  },
+  {
+    "Bosch_Temperature": "7.3462",
+    "ts": 1693450297623,
+    "Bosch_VoC": 23979.0,
+    "ID": "IC_Jlle_Training_11",
+    "Bosch_Humidity": 16.61094856,
+    "MQ3": 422.0
+  },
+  {
+    "Bosch_Temperature": "7.7824",
+    "ts": 1693451635297,
+    "Bosch_VoC": 23659.0,
+    "ID": "IC_Jlle_Training_11",
+    "Bosch_Humidity": 14.83921337,
+    "MQ3": 397.0
+  },
+  {
+    "Bosch_Temperature": "7.4377",
+    "ts": 1693457749840,
+    "Bosch_VoC": 26879.0,
+    "ID": "IC_Jlle_Training_11",
+    "Bosch_Humidity": 10.35523605,
+    "MQ3": 361.0
+  },
+  {
+    "Bosch_Temperature": "8.3773",
+    "ts": 1693463164789,
+    "Bosch_VoC": 23885.0,
+    "ID": "IC_Jlle_Training_11",
+    "Bosch_Humidity": 14.24355221,
+    "MQ3": 401.0
+  },
+  {
+    "Bosch_Temperature": "8.4506",
+    "ts": 1693463355760,
+    "Bosch_VoC": 23686.0,
+    "ID": "IC_Jlle_Training_11",
+    "Bosch_Humidity": 14.74707031,
+    "MQ3": 412.0
+  },
+  {
+    "Bosch_Temperature": "8.8019",
+    "ts": 1693465182887,
+    "Bosch_VoC": 24237.0,
+    "ID": "IC_Jlle_Training_11",
+    "Bosch_Humidity": 11.46053219,
+    "MQ3": 375.0
+  },
+  {
+    "Bosch_Temperature": "8.7852",
+    "ts": 1693465244217,
+    "Bosch_VoC": 24432.0,
+    "ID": "IC_Jlle_Training_11",
+    "Bosch_Humidity": 11.31345463,
+    "MQ3": 375.0
+  },
+  {
+    "Bosch_Temperature": "7.5321",
+    "ts": 1693471186692,
+    "Bosch_VoC": 23568.0,
+    "ID": "IC_Jlle_Training_11",
+    "Bosch_Humidity": 16.16747856,
+    "MQ3": 411.0
+  },
+  {
+    "Bosch_Temperature": "8.7116",
+    "ts": 1693475313814,
+    "Bosch_VoC": 24418.0,
+    "ID": "IC_Jlle_Training_11",
+    "Bosch_Humidity": 11.28830051,
+    "MQ3": 378.0
+  },
+  {
+    "Bosch_Temperature": "8.1893",
+    "ts": 1693476381984,
+    "Bosch_VoC": 25226.0,
+    "ID": "IC_Jlle_Training_11",
+    "Bosch_Humidity": 10.35842037,
+    "MQ3": 371.0
+  },
+  {
+    "Bosch_Temperature": "7.0651",
+    "ts": 1693478705937,
+    "Bosch_VoC": 24306.0,
+    "ID": "IC_Jlle_Training_11",
+    "Bosch_Humidity": 11.66257286,
+    "MQ3": 377.0
+  },
+  {
+    "Bosch_Temperature": "7.2921",
+    "ts": 1693480289611,
+    "Bosch_VoC": 21476.0,
+    "ID": "IC_Jlle_Training_11",
+    "Bosch_Humidity": 15.85125256,
+    "MQ3": 422.0
+  },
+  {
+    "Bosch_Temperature": "7.2817",
+    "ts": 1693490496138,
+    "Bosch_VoC": 20887.0,
+    "ID": "IC_Jlle_Training_11",
+    "Bosch_Humidity": 16.05160713,
+    "MQ3": 429.0
+  },
+  {
+    "Bosch_Temperature": "8.7846",
+    "ts": 1693495130711,
+    "Bosch_VoC": 20846.0,
+    "ID": "IC_Jlle_Training_11",
+    "Bosch_Humidity": 11.61595058,
+    "MQ3": 393.0
+  },
+  {
+    "Bosch_Temperature": "8.6387",
+    "ts": 1693495668764,
+    "Bosch_VoC": 21390.0,
+    "ID": "IC_Jlle_Training_11",
+    "Bosch_Humidity": 10.78884411,
+    "MQ3": 383.0
+  },
+  {
+    "Bosch_Temperature": "10.8853",
+    "ts": 1693517003708,
+    "Bosch_VoC": 5684.0,
+    "ID": "IC_Jlle_Training_11",
+    "Bosch_Humidity": 81.54325104,
+    "MQ3": 522.0
+  },
+  {
+    "Bosch_Temperature": "10.8853",
+    "ts": 1693517006650,
+    "Bosch_VoC": 5684.0,
+    "ID": "IC_Jlle_Training_11",
+    "Bosch_Humidity": 81.54325104,
+    "MQ3": 522.0
+  },
+  {
+    "Bosch_Temperature": "7.4946",
+    "ts": 1693523112443,
+    "Bosch_VoC": 13559.0,
+    "ID": "IC_Jlle_Training_11",
+    "Bosch_Humidity": 19.619133,
+    "MQ3": 504.0
+  },
+  {
+    "Bosch_Temperature": "6.6981",
+    "ts": 1693525438471,
+    "Bosch_VoC": 15636.0,
+    "ID": "IC_Jlle_Training_11",
+    "Bosch_Humidity": 20.23853302,
+    "MQ3": 538.0
+  },
+  {
+    "Bosch_Temperature": "8.3512",
+    "ts": 1693529552591,
+    "Bosch_VoC": 13913.0,
+    "ID": "IC_Jlle_Training_11",
+    "Bosch_Humidity": 23.14094162,
+    "MQ3": 525.0
+  },
+  {
+    "Bosch_Temperature": "7.9330",
+    "ts": 1693531020524,
+    "Bosch_VoC": 15845.0,
+    "ID": "IC_Jlle_Training_11",
+    "Bosch_Humidity": 19.19617462,
+    "MQ3": 551.0
+  },
+  {
+    "Bosch_Temperature": "6.9044",
+    "ts": 1693533497363,
+    "Bosch_VoC": 17832.0,
+    "ID": "IC_Jlle_Training_11",
+    "Bosch_Humidity": 17.47040749,
+    "MQ3": 541.0
+  },
+  {
+    "Bosch_Temperature": "6.4553",
+    "ts": 1693534360130,
+    "Bosch_VoC": 18353.0,
+    "ID": "IC_Jlle_Training_11",
+    "Bosch_Humidity": 16.89496613,
+    "MQ3": 541.0
+  },
+  {
+    "Bosch_Temperature": "6.3459",
+    "ts": 1693535687121,
+    "Bosch_VoC": 18823.0,
+    "ID": "IC_Jlle_Training_11",
+    "Bosch_Humidity": 18.39846802,
+    "MQ3": 563.0
+  },
+  {
+    "Bosch_Temperature": "7.6453",
+    "ts": 1693538934331,
+    "Bosch_VoC": 17772.0,
+    "ID": "IC_Jlle_Training_11",
+    "Bosch_Humidity": 19.29055214,
+    "MQ3": 568.0
+  },
+  {
+    "Bosch_Temperature": "7.9704",
+    "ts": 1693572021036,
+    "Bosch_VoC": 14362.0,
+    "ID": "IC_Jlle_Training_11",
+    "Bosch_Humidity": 15.76468658,
+    "MQ3": 428.0
+  },
+  {
+    "Bosch_Temperature": "7.5443",
+    "ts": 1693575031057,
+    "Bosch_VoC": 15940.0,
+    "ID": "IC_Jlle_Training_11",
+    "Bosch_Humidity": 19.67607498,
+    "MQ3": 469.0
+  },
+  {
+    "Bosch_Temperature": "7.9780",
+    "ts": 1693587851318,
+    "Bosch_VoC": 20785.0,
+    "ID": "IC_Jlle_Training_11",
+    "Bosch_Humidity": 15.545434,
+    "MQ3": 424.0
+  },
+  {
+    "Bosch_Temperature": "8.3289",
+    "ts": 1693588951561,
+    "Bosch_VoC": 21694.0,
+    "ID": "IC_Jlle_Training_11",
+    "Bosch_Humidity": 14.84649944,
+    "MQ3": 424.0
+  },
+  {
+    "Bosch_Temperature": "8.6560",
+    "ts": 1693589849228,
+    "Bosch_VoC": 20195.0,
+    "ID": "IC_Jlle_Training_11",
+    "Bosch_Humidity": 16.57627678,
+    "MQ3": 447.0
+  },
+  {
+    "Bosch_Temperature": "7.9176",
+    "ts": 1693593136095,
+    "Bosch_VoC": 24033.0,
+    "ID": "IC_Jlle_Training_11",
+    "Bosch_Humidity": 11.76280594,
+    "MQ3": 395.0
+  },
+  {
+    "Bosch_Temperature": "7.0896",
+    "ts": 1693595479387,
+    "Bosch_VoC": 25034.0,
+    "ID": "IC_Jlle_Training_11",
+    "Bosch_Humidity": 12.98587322,
+    "MQ3": 398.0
+  },
+  {
+    "Bosch_Temperature": "7.1861",
+    "ts": 1693596121871,
+    "Bosch_VoC": 22519.0,
+    "ID": "IC_Jlle_Training_11",
+    "Bosch_Humidity": 14.71671677,
+    "MQ3": 425.0
+  },
+  {
+    "Bosch_Temperature": "7.7182",
+    "ts": 1693597209790,
+    "Bosch_VoC": 16048.0,
+    "ID": "IC_Jlle_Training_11",
+    "Bosch_Humidity": 39.47125626,
+    "MQ3": 503.0
+  },
+  {
+    "Bosch_Temperature": "8.4626",
+    "ts": 1693609981391,
+    "Bosch_VoC": 13166.0,
+    "ID": "IC_Jlle_Training_11",
+    "Bosch_Humidity": 41.91871262,
+    "MQ3": 438.0
+  },
+  {
+    "Bosch_Temperature": "8.1541",
+    "ts": 1693617531055,
+    "Bosch_VoC": 14391.0,
+    "ID": "IC_Jlle_Training_11",
+    "Bosch_Humidity": 38.44622421,
+    "MQ3": 427.0
+  },
+  {
+    "Bosch_Temperature": "7.8465",
+    "ts": 1693624101151,
+    "Bosch_VoC": 14894.0,
+    "ID": "IC_Jlle_Training_11",
+    "Bosch_Humidity": 38.19598007,
+    "MQ3": 431.0
+  },
+  {
+    "Bosch_Temperature": "7.6984",
+    "ts": 1693633304843,
+    "Bosch_VoC": 15191.0,
+    "ID": "IC_Jlle_Training_11",
+    "Bosch_Humidity": 38.27459335,
+    "MQ3": 420.0
+  },
+  {
+    "Bosch_Temperature": "8.2968",
+    "ts": 1693636921884,
+    "Bosch_VoC": 15051.0,
+    "ID": "IC_Jlle_Training_11",
+    "Bosch_Humidity": 36.33574295,
+    "MQ3": 393.0
+  },
+  {
+    "Bosch_Temperature": "8.3314",
+    "ts": 1693646645734,
+    "Bosch_VoC": 14821.0,
+    "ID": "IC_Jlle_Training_11",
+    "Bosch_Humidity": 36.09586334,
+    "MQ3": 391.0
+  },
+  {
+    "Bosch_Temperature": "8.2987",
+    "ts": 1693646708934,
+    "Bosch_VoC": 14925.0,
+    "ID": "IC_Jlle_Training_11",
+    "Bosch_Humidity": 35.9521637,
+    "MQ3": 390.0
+  },
+  {
+    "Bosch_Temperature": "8.4166",
+    "ts": 1693653289064,
+    "Bosch_VoC": 14831.0,
+    "ID": "IC_Jlle_Training_11",
+    "Bosch_Humidity": 36.90080643,
+    "MQ3": 382.0
+  },
+  {
+    "Bosch_Temperature": "7.5377",
+    "ts": 1693669947110,
+    "Bosch_VoC": 16108.0,
+    "ID": "IC_Jlle_Training_11",
+    "Bosch_Humidity": 36.20439148,
+    "MQ3": 395.0
+  },
+  {
+    "Bosch_Temperature": "7.6405",
+    "ts": 1693671497690,
+    "Bosch_VoC": 15073.0,
+    "ID": "IC_Jlle_Training_11",
+    "Bosch_Humidity": 40.09423065,
+    "MQ3": 408.0
+  },
+  {
+    "Bosch_Temperature": "8.0663",
+    "ts": 1693673091935,
+    "Bosch_VoC": 14914.0,
+    "ID": "IC_Jlle_Training_11",
+    "Bosch_Humidity": 39.24871445,
+    "MQ3": 403.0
+  },
+  {
+    "Bosch_Temperature": "7.8056",
+    "ts": 1693676827198,
+    "Bosch_VoC": 15928.0,
+    "ID": "IC_Jlle_Training_11",
+    "Bosch_Humidity": 34.84524536,
+    "MQ3": 377.0
+  },
+  {
+    "Bosch_Temperature": "7.8056",
+    "ts": 1693676945110,
+    "Bosch_VoC": 15928.0,
+    "ID": "IC_Jlle_Training_11",
+    "Bosch_Humidity": 34.84524536,
+    "MQ3": 377.0
+  },
+  {
+    "Bosch_Temperature": "7.6063",
+    "ts": 1693692019218,
+    "Bosch_VoC": 16688.0,
+    "ID": "IC_Jlle_Training_11",
+    "Bosch_Humidity": 33.64969635,
+    "MQ3": 388.0
+  },
+  {
+    "Bosch_Temperature": "8.2060",
+    "ts": 1693703249210,
+    "Bosch_VoC": 15333.0,
+    "ID": "IC_Jlle_Training_11",
+    "Bosch_Humidity": 37.83872986,
+    "MQ3": 391.0
+  },
+  {
+    "Bosch_Temperature": "8.1644",
+    "ts": 1693707763895,
+    "Bosch_VoC": 16623.0,
+    "ID": "IC_Jlle_Training_11",
+    "Bosch_Humidity": 32.48452377,
+    "MQ3": 372.0
+  },
+  {
+    "Bosch_Temperature": "7.7361",
+    "ts": 1693715687105,
+    "Bosch_VoC": 17241.0,
+    "ID": "IC_Jlle_Training_11",
+    "Bosch_Humidity": 31.2703495,
+    "MQ3": 361.0
+  },
+  {
+    "Bosch_Temperature": "7.5188",
+    "ts": 1693716810986,
+    "Bosch_VoC": 16597.0,
+    "ID": "IC_Jlle_Training_11",
+    "Bosch_Humidity": 35.83105469,
+    "MQ3": 377.0
+  },
+  {
+    "Bosch_Temperature": "8.3799",
+    "ts": 1693720311764,
+    "Bosch_VoC": 15366.0,
+    "ID": "IC_Jlle_Training_11",
+    "Bosch_Humidity": 37.03387833,
+    "MQ3": 391.0
+  },
+  {
+    "Bosch_Temperature": "8.4723",
+    "ts": 1693721069935,
+    "Bosch_VoC": 16482.0,
+    "ID": "IC_Jlle_Training_11",
+    "Bosch_Humidity": 30.78647232,
+    "MQ3": 365.0
+  },
+  {
+    "Bosch_Temperature": "8.4056",
+    "ts": 1693721448883,
+    "Bosch_VoC": 16980.0,
+    "ID": "IC_Jlle_Training_11",
+    "Bosch_Humidity": 29.87771797,
+    "MQ3": 360.0
+  },
+  {
+    "Bosch_Temperature": "8.2182",
+    "ts": 1693722141329,
+    "Bosch_VoC": 17325.0,
+    "ID": "IC_Jlle_Training_11",
+    "Bosch_Humidity": 29.31542587,
+    "MQ3": 355.0
+  },
+  {
+    "Bosch_Temperature": "7.8380",
+    "ts": 1693725574082,
+    "Bosch_VoC": 15602.0,
+    "ID": "IC_Jlle_Training_11",
+    "Bosch_Humidity": 38.13233948,
+    "MQ3": 395.0
+  },
+  {
+    "Bosch_Temperature": "8.1773",
+    "ts": 1693726776087,
+    "Bosch_VoC": 15670.0,
+    "ID": "IC_Jlle_Training_11",
+    "Bosch_Humidity": 36.93710709,
+    "MQ3": 391.0
+  },
+  {
+    "Bosch_Temperature": "8.3563",
+    "ts": 1693727340981,
+    "Bosch_VoC": 15556.0,
+    "ID": "IC_Jlle_Training_11",
+    "Bosch_Humidity": 37.11705399,
+    "MQ3": 384.0
+  },
+  {
+    "Bosch_Temperature": "8.1255",
+    "ts": 1693736296865,
+    "Bosch_VoC": 15740.0,
+    "ID": "IC_Jlle_Training_11",
+    "Bosch_Humidity": 36.76826859,
+    "MQ3": 395.0
+  },
+  {
+    "Bosch_Temperature": "8.2075",
+    "ts": 1693736366412,
+    "Bosch_VoC": 15705.0,
+    "ID": "IC_Jlle_Training_11",
+    "Bosch_Humidity": 36.56569672,
+    "MQ3": 393.0
+  },
+  {
+    "Bosch_Temperature": "7.8459",
+    "ts": 1693742308187,
+    "Bosch_VoC": 15892.0,
+    "ID": "IC_Jlle_Training_11",
+    "Bosch_Humidity": 36.73324585,
+    "MQ3": 391.0
+  },
+  {
+    "Bosch_Temperature": "8.2773",
+    "ts": 1693743841989,
+    "Bosch_VoC": 15822.0,
+    "ID": "IC_Jlle_Training_11",
+    "Bosch_Humidity": 35.77014542,
+    "MQ3": 380.0
+  },
+  {
+    "Bosch_Temperature": "8.0761",
+    "ts": 1693752902859,
+    "Bosch_VoC": 15682.0,
+    "ID": "IC_Jlle_Training_11",
+    "Bosch_Humidity": 36.97953415,
+    "MQ3": 397.0
+  },
+  {
+    "Bosch_Temperature": "8.1745",
+    "ts": 1693760512127,
+    "Bosch_VoC": 15928.0,
+    "ID": "IC_Jlle_Training_11",
+    "Bosch_Humidity": 35.2167778,
+    "MQ3": 381.0
+  },
+  {
+    "Bosch_Temperature": "8.2720",
+    "ts": 1693767958657,
+    "Bosch_VoC": 15869.0,
+    "ID": "IC_Jlle_Training_11",
+    "Bosch_Humidity": 35.24721527,
+    "MQ3": 383.0
+  },
+  {
+    "Bosch_Temperature": "8.0314",
+    "ts": 1693770551423,
+    "Bosch_VoC": 18923.0,
+    "ID": "IC_Jlle_Training_11",
+    "Bosch_Humidity": 25.27639389,
+    "MQ3": 351.0
+  },
+  {
+    "Bosch_Temperature": "7.8783",
+    "ts": 1693773798259,
+    "Bosch_VoC": 16096.0,
+    "ID": "IC_Jlle_Training_11",
+    "Bosch_Humidity": 36.54356003,
+    "MQ3": 396.0
+  },
+  {
+    "Bosch_Temperature": "8.0170",
+    "ts": 1693774486048,
+    "Bosch_VoC": 16120.0,
+    "ID": "IC_Jlle_Training_11",
+    "Bosch_Humidity": 35.22066879,
+    "MQ3": 391.0
+  },
+  {
+    "Bosch_Temperature": "8.1956",
+    "ts": 1693777288817,
+    "Bosch_VoC": 18873.0,
+    "ID": "IC_Jlle_Training_11",
+    "Bosch_Humidity": 25.28145027,
+    "MQ3": 350.0
+  },
+  {
+    "Bosch_Temperature": "7.5641",
+    "ts": 1693779479036,
+    "Bosch_VoC": 17062.0,
+    "ID": "IC_Jlle_Training_11",
+    "Bosch_Humidity": 34.24037552,
+    "MQ3": 367.0
+  },
+  {
+    "Bosch_Temperature": "7.7751",
+    "ts": 1693780630144,
+    "Bosch_VoC": 16145.0,
+    "ID": "IC_Jlle_Training_11",
+    "Bosch_Humidity": 36.52922058,
+    "MQ3": 389.0
+  },
+  {
+    "Bosch_Temperature": "8.2459",
+    "ts": 1693789739257,
+    "Bosch_VoC": 16145.0,
+    "ID": "IC_Jlle_Training_11",
+    "Bosch_Humidity": 34.11682129,
+    "MQ3": 377.0
+  },
+  {
+    "Bosch_Temperature": "7.9657",
+    "ts": 1693796004419,
+    "Bosch_VoC": 16507.0,
+    "ID": "IC_Jlle_Training_11",
+    "Bosch_Humidity": 33.93326569,
+    "MQ3": 381.0
+  },
+  {
+    "Bosch_Temperature": "8.8965",
+    "ts": 1693799635824,
+    "Bosch_VoC": 18089.0,
+    "ID": "IC_Jlle_Training_11",
+    "Bosch_Humidity": 24.31406403,
+    "MQ3": 373.0
+  },
+  {
+    "Bosch_Temperature": "8.3009",
+    "ts": 1693801282546,
+    "Bosch_VoC": 19458.0,
+    "ID": "IC_Jlle_Training_11",
+    "Bosch_Humidity": 23.53213692,
+    "MQ3": 365.0
+  }
+]
